@@ -1,0 +1,18 @@
+*{
+    top:0;
+    left:0px;
+    text-align: center;
+    
+}
+
+.heading{
+    background-color: darkgrey;
+    padding: 20px auto;
+    margin : 0 auto;
+}
+
+.display-5{
+    background-color: darkgrey;
+    padding: 20px auto;
+    margin : 0 auto;
+}
